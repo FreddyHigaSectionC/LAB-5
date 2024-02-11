@@ -7,8 +7,10 @@ Choosing the main colors to use on the website.
 Structure:
 Home
 How many images the website will have: 10
+
 How many music the website will have: 6
 How many videos the website will have: 2
+
 Genres
 Artists
 Albums
